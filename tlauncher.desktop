@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=TLauncher
+Comment=Unofficial Minecraft launcher
+Exec=/bin/tlauncher
+Icon=/usr/share/tlauncher/tlauncher.png
+Terminal=false
+Categories=Game;
+
